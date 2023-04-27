@@ -5,7 +5,7 @@
       "id":"myFirstDiv",
       "innerHTML":"myFirstDiv"
    },
-   "div2":{
+   "div":{
       "name": "Steve",
       "lastName": "Jobs",
       "id":"mySecondDiv",
