@@ -1,7 +1,11 @@
-{
-   "nome":"davide",
-   "cognome":"Giambona",
-   "dizionario":{
-      "tel":555
-   }
+{ 
+    "div":{
+        "id":"myFirstDiv",
+        "innerHTML" : "myFirstDiv"
+    }
+
+    "div": {
+	"id": "mySecondDiv",
+	"innerHTML" : "mySecondDiv"
+    }
 }
