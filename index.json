@@ -1,11 +1,10 @@
-{ 
-    "div":{
-        "id":"myFirstDiv",
-        "innerHTML" : "myFirstDiv"
-    }
-
-    "div": {
-	"id": "mySecondDiv",
-	"innerHTML" : "mySecondDiv"
-    }
+{
+   "div":{
+      "id":"myFirstDiv",
+      "innerHTML":"myFirstDiv"
+   },
+   "div2":{
+      "id":"mySecondDiv",
+      "innerHTML":"mySecondDiv"
+   }
 }
