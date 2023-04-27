@@ -1,9 +1,13 @@
 {
    "div":{
+      "name": "Davide",
+      "lastName": "Giambona",
       "id":"myFirstDiv",
       "innerHTML":"myFirstDiv"
    },
    "div2":{
+      "name": "Steve",
+      "lastName": "Jobs",
       "id":"mySecondDiv",
       "innerHTML":"mySecondDiv"
    }
